@@ -14,9 +14,9 @@ While learning Fusion 360 through a 30-day challenge, I created these models to 
 
 | Project | Description | Format | Preview |
 |--------|-------------|--------|---------|
-| **RF Probe Holder** | A 3D-printed holder for GSG RF probe station measurements. | `.f3d`, `.stl` | ![Preview](models/RF-Probe-Holder/screenshot.png) |
-| **Antenna Enclosure** | Protective casing for a 28 GHz patch antenna for lab testing. | `.f3d`, `.stl` | ![Preview](models/Antenna-Enclosure/screenshot.png) |
-| **Test Fixture** | Mechanical support for PCB validation setup. | `.f3d` | ![Preview](models/Test-Fixture/screenshot.jpg) |
+| **Bike Handlebar** | Bike handlebar design optimized for ergonomic control. | `.f3d` | ![Preview](https://github.com/samueloladosu37/fusion360-sample-modeling/blob/main/Day%20%237%20-%20Bike%20Handlebar%20Grip%20v2.png) |
+| **Drive Gear** | Precision drive gear design for mechanical transmission systems. | `.f3d`, `.stl` | ![Preview](https://github.com/samueloladosu37/fusion360-sample-modeling/blob/main/Day%20%2312%20Gear%20Drive%20v3.png) |
+| **Hex Nut** | Mechanical support for PCB validation setup. | `.f3d` | ![Preview](models/Test-Fixture/screenshot.jpg) |
 
 ---
 
