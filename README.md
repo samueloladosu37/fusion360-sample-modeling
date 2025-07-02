@@ -1,6 +1,6 @@
 # 🛠️ Fusion 360 Design Portfolio
 
-This repository contains a collection of my 3D design projects created using Autodesk Fusion 360. These models include RF fixture components, custom enclosures, and mechanical parts developed while learning and exploring 3D CAD design for RF/mmWave applications.
+This repository contains a collection of my 3D design projects created using Autodesk Fusion 360. These models include General model, RF fixture components, custom enclosures, and mechanical parts developed while learning and exploring 3D CAD design for RF/mmWave applications.
 
 ---
 
