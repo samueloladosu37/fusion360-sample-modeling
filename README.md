@@ -6,7 +6,7 @@ This repository contains a collection of my 3D design projects created using Aut
 
 ## 📌 About
 
-While learning Fusion 360 through a 30-day challenge, I created these models to explore and understand various features of the software — from parametric design and assembly modeling to rendering and exporting for manufacturing. These designs reflect both my learning journey and my engineering curiosity. Most of the files are in `.f3d` (Fusion archive) and `.stl` (printable) formats.
+While learning Fusion 360 through a 30-day challenge, I created these models to explore and understand various features of the software — from parametric design and assembly modeling to rendering and exporting for manufacturing. These designs reflect both my learning journey and my engineering curiosity. Most of the files are in `.f3d` (Fusion archive) format.
 
 ---
 
