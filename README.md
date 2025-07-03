@@ -25,8 +25,7 @@ While learning Fusion 360 through a 15-days challenge, I created these models to
 ## 📦 How to Use
 
 1. Open any `.f3d` file in Autodesk Fusion 360.
-2. You can also view or 3D print using `.stl` files.
-3. Clone or download the repo to access all designs.
+   
 
 ---
 
