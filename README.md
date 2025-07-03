@@ -1,4 +1,4 @@
-# 🛠️ Fusion 360 Design Portfolio
+# 🛠️ Fusion 360 Designs
 
 This repository contains a collection of my 3D design projects created using Autodesk Fusion 360. These models include General model, RF fixture components, custom enclosures, and mechanical parts developed while learning and exploring 3D CAD designs.
 
