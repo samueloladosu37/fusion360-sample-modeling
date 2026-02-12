@@ -14,6 +14,7 @@ While learning Fusion 360 through a 15-days challenge, I created these models to
 
 | Project | Description | Format | Preview |
 |--------|-------------|--------|---------|
+| **KeyLock Assembly** | KeyLock | `.f3d` | ![Preview](https://github.com/samueloladosu37/fusion360-sample-modeling/blob/main/KeyLock%20Assembly.png) |
 | **Bike Handlebar** | Bike handlebar design optimized for ergonomic control. | `.f3d` | ![Preview](https://github.com/samueloladosu37/fusion360-sample-modeling/blob/main/Day%20%237%20-%20Bike%20Handlebar%20Grip%20v2.png) |
 | **RF Connector** | SMA Connector | `.f3d`| ![Preview](https://github.com/samueloladosu37/fusion360-sample-modeling/blob/main/SMA%20Connector%20v2.png)|
 | **Drive Gear** | Precision drive gear design for mechanical transmission systems. | `.f3d`| ![Preview](https://github.com/samueloladosu37/fusion360-sample-modeling/blob/main/Day%20%2312%20Gear%20Drive%20v3.png) |
