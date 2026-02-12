@@ -1,12 +1,12 @@
 # 🛠️ Fusion 360 Designs
 
-This repository contains a collection of my 3D design projects created using Autodesk Fusion 360. These models include General model, RF fixture components, custom enclosures, and mechanical parts developed while learning and exploring 3D CAD designs.
+This repository contains a collection of my 3D design projects created using Autodesk Fusion 360. These models include General model assembly, custom enclosures, and mechanical parts developed while learning and exploring 3D CAD designs for CNC machining.
 
 ---
 
 ## 📌 About
 
-While learning Fusion 360 through a 15-days challenge, I created these models to explore and understand various features of the software — from parametric design and assembly modeling to rendering and exporting for manufacturing. These designs reflect both my learning journey and my engineering curiosity and capacity. Most of the files are in `.f3d` (Fusion archive) format.
+While learning Fusion 360 through a 15-days challenge, I created these models to explore and understand various features of the software — from parametric design and assembly modeling to rendering and exporting for CNC manufacturing. These designs reflect both my learning journey and my engineering curiosity and capacity. Most of the files are in `.f3d` (Fusion archive) format.
 
 ---
 
