@@ -20,7 +20,7 @@ While learning Fusion 360 through a 15-days challenge, I created these models to
 | **Drive Gear** | Precision drive gear design for mechanical transmission systems. | `.f3d`| ![Preview](https://github.com/samueloladosu37/fusion360-sample-modeling/blob/main/Day%20%2312%20Gear%20Drive%20v3.png) |
 | **Hex Nut** | Hex nut geometry for secure fastening. | `.f3d` | ![Preview](https://github.com/samueloladosu37/fusion360-sample-modeling/blob/main/Day%20%236%20-%20Hex%20Nut%20v2.png) |
 | **Paper Clip** | Paper clip for holding paper. | `.f3d` | ![Preview](https://github.com/samueloladosu37/fusion360-sample-modeling/blob/main/Day%233-%20Paperclip%20v2.png) |
-| **Slot box** | Slot box | `.f3d` | ![Preview](https://github.com/samueloladosu37/fusion360-sample-modeling/blob/main/Day%20%2314%20Slot%20Box%20v1.png) |
+| **RingHead** | Ring | `.f3d` | ![Preview](https://github.com/samueloladosu37/fusion360-sample-modeling/blob/main/Ring.png) |
 
 ---
 
